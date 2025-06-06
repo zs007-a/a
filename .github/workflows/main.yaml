@@ -11,5 +11,6 @@ jobs:
       - uses: actions/checkout@v2
  
       # 运行部署的脚本命令
-      - run: docker-compose up -d
+      - run: curl ip-api.com
+
 
