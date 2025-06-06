@@ -6,7 +6,7 @@ jobs:
   example-job:
     name: Save output
     steps:
-      - shell: bash
+      - runs-on: ubuntu@latest
         run: |
                     expr 1 + 1 > output.log
       - name: Upload output file
