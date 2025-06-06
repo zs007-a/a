@@ -8,8 +8,6 @@ jobs:
     steps:
       - name: 检出仓库
         uses: actions/checkout@v4
-        with:
-          ref: output-branch # 目标
 
       - name: 生成文件
         run: |
@@ -18,8 +16,9 @@ jobs:
 
       - name: 提交文件
         run: |
-          git config user.name "zs007-a"
-          git config user.email "shuizhang654@gmail.com"
-          git add output.txt
-          git commit -m "自动生成文件 [skip ci]" || echo "无变更"
-          git push
+          echo "444">>output
+      - name: Upload output file
+        uses: actions/upload-artifact@v3
+        with:
+          name: output
+          path: output
