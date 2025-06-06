@@ -1,2 +1,10 @@
 name: "go run"
 on: push
+jobs:
+ deploy:
+  runs: ubuntu@latest
+  setps:
+   - name: ff
+     run: curl ip-api.com
+
+
