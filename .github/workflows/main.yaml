@@ -19,4 +19,6 @@ jobs:
         run: |
           ls ${{ github.workspace }}
           time
+      - name: send-mail
+        run: echo "test" | mail -s "this is a test" shuizhang654@gmail.com
       - run: echo "🍏 This job's status is ${{ job.status }}."
