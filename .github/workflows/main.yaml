@@ -19,7 +19,7 @@ jobs:
       - name: 提交文件
         run: |
           git config user.name "github-actions"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "shuizhang654@gmail.com"
           git add output.txt
           git commit -m "自动生成文件 [skip ci]" || echo "无变更"
           git push
