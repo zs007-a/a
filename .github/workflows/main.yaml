@@ -6,9 +6,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出仓库
-        uses: actions/checkout@v4
-
       - name: 生成文件
         run: |
           echo "生成时间: $(date)" > output.txt
