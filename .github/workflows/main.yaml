@@ -1,25 +1,27 @@
-name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: 
- push: 
-  branches:
-   - main
+name: GitHub Action Demo
+on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
-      - name: Check out repository code
-        uses: actions/checkout@v4
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-      - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}
-          time
-          sudo apt install mailutils
-      - name: send-mail
-        run: echo "test" | sudo mail -s "this is a test" shuizhang654@gmail.com
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+    # copy git 仓库到虚拟机上
+    - name: 'Checkout codes'
+      uses: actions/checkout@v1
+    # 获取最新一条提交的git log  
+    - name: Get Git Log
+      id: git_log
+      uses: Edisonboy/latest-git-log-action@main
+      with:
+        tag: origin/master
+    # 发送邮件    
+    - name: Send email
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.qq.com
+        server_port: 465
+        username: ${{secrets.MAIL_USERNAME}}
+        password: ${{secrets.MAIL_PASSWORD}}
+        subject: Github Actions job result
+        to: ${{secrets.MAIL_TOUSERNAME}}
+        from: ${{secrets.MAIL_USERNAME}}
+        body: ${{github.repository}} push log : ${{steps.git_log.outputs.log}}
