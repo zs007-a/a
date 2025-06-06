@@ -5,8 +5,8 @@ on: [push]
 jobs:
   example-job:
     name: Save output
+    runs-on: ubuntu@latest
     steps:
-      - runs-on: ubuntu@latest
         run: |
                     expr 1 + 1 > output.log
       - name: Upload output file
