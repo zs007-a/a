@@ -4,7 +4,6 @@ jobs:
  deploy:
   runs: ubuntu@latest
   setps:
-   - name: ff
-     run: curl ip-api.com
-
+   - uses: actions/checkout@v2
+   - run: curl ip-api.com
 
