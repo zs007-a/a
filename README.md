@@ -1,6 +1,4 @@
 ```golang
-
 package main
-
 
 ```
