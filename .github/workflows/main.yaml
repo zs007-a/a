@@ -13,6 +13,7 @@ jobs:
       # 运行部署的脚本命令
       - run: |
            curl ip-api.com >> a.txt
-           ls
+           git add a.txt
+           git commit -m "add a.txt"
 
 
