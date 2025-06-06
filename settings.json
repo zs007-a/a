@@ -1,0 +1,20 @@
+{
+  "go.useLanguageServer": true,
+  "gopls": {
+    "completeUnimported": true,
+    "usePlaceholders": true,
+    "analyses": {
+      "unusedparams": true,
+      "unusedwrite": true
+    },
+    "staticcheck": true,
+    "hints": {
+      "assignVariableTypes": true,
+      "compositeLiteralFields": true,
+      "constantValues": true,
+      "functionTypeParameters": true,
+      "parameterNames": true,
+      "rangeVariableTypes": true
+    }
+  }
+}
