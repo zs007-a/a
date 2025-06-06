@@ -1,1 +1,19 @@
+name: My CI workflow
 
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    types: [ opened, synchronize, reopened ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # 获取代码
+      - name: Run tests
+        run: |
+          # 运行测试
+          echo "Running tests..."
+          echo "this is a test"
+          ./test.sh
