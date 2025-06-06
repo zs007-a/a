@@ -14,6 +14,5 @@ jobs:
       - run: |
            curl ip-api.com >> a.txt
            ls
-           git 
 
 
