@@ -10,6 +10,6 @@ func main(){
     http.ListenAndServe(":8090",nil)
 }
 
-func helloHandler(w http.ResponseWrite,r *http.Resquest){
-    fmt.Fprintln("hello world")
+func helloHandler(w http.ResponseWriter,r *http.Request){
+    fmt.Fprintln(w, "Hello, World!")
 }
