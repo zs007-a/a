@@ -9,7 +9,7 @@ jobs:
       - name: 检出仓库
         uses: actions/checkout@v4
         with:
-          ref: output-branch # 目标分
+          ref: output-branch # 目标
 
       - name: 生成文件
         run: |
