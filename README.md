@@ -1,5 +1,1 @@
-'''go
-
-package main
-
-'''
+#a
