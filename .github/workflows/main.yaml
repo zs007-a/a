@@ -3,19 +3,14 @@ name: Generate and Push File
 on: [push]
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  example-job:
+    name: Save output
     steps:
-      - name: 生成文件
+      - shell: bash
         run: |
-          echo "生成时间: $(date)" > output.txt
-          # 添加其他生成逻辑
-
-      - name: 提交文件
-        run: |
-          echo "444">>output
+                    expr 1 + 1 > output.log
       - name: Upload output file
         uses: actions/upload-artifact@v3
         with:
-          name: output
-          path: output
+          name: output-log-file
+          path: output.log
