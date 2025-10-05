@@ -1,0 +1,23 @@
+# 清除所有现有规则
+iptables -F
+
+# 设置默认策略
+iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+
+# 允许本地回环
+iptables -A INPUT -i lo -j ACCEPT
+
+# 允许已建立的连接和相关连接
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+# 允许 SSH (重要！先设置这个)
+iptables -A INPUT -p tcp --dport 2222 -j ACCEPT
+
+# 允许 HTTP 和 HTTPS
+iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+iptables -A INPUT -p tcp --dport 443 -j ACCEPT
+
+# 允许 ping
+iptables -A INPUT -p icmp -j ACCEPT
