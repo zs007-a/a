@@ -22,7 +22,8 @@ jobs:
           git pull --rebase origin main
       - name: curl
         run: |
-          curl --silent ip-api.com/json >> a.test << "\n"
+          curl --silent ip-api.com/json >> a.test << EOF
+EOF
       - name: 提交更改
         run: |
           git add *
