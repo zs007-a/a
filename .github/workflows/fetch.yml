@@ -18,7 +18,7 @@ jobs:
         run: |
           git config --local user.email "shuizhang654@gmail"
           git config --local user.name "zs"
-          git add test.txt
+          git add a.txt
           git commit -m "add a.test"
       - name: 推送更改
         uses: ad-m/github-push-action@master
