@@ -1,7 +1,9 @@
 name: Fetch
-
 on:
   workflow_dispatch:
+  schedule:
+    # 表达式生成 https://crontab.guru/
+   - cron: '* * * * *'
   push:
     path:
      - "a.test"
