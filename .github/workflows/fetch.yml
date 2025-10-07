@@ -13,12 +13,15 @@ jobs:
       - name: 迁出代码
         uses: actions/checkout@v4
       - name: curl
-        run: curl --silent ip-api.com >> a.test
+        run: |
+          curl --silent ip-api.com >> a.test
+          pwd
+          ls -al
       - name: 提交更改
         run: |
           git config --local user.email "shuizhang654@gmail"
           git config --local user.name "zs"
-          git add a.txt
+          git add *
           git commit -m "add a.test"
       - name: 推送更改
         uses: ad-m/github-push-action@master
