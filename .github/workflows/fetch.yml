@@ -23,6 +23,7 @@ jobs:
           git config --local user.email "shuizhang654@gmail.com"
           git config --local user.name "zs"
           git add *
+          git commit -m "add a.test"
           git push
       - name: 推送更改
         uses: ad-m/github-push-action@master
