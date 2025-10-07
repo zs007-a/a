@@ -1,0 +1,15 @@
+name: Fetch
+
+on:
+  workflow_dispatch:
+  push:
+    path:
+      - "test.txt"
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 迁出代码
+        use: actions/checkout@v4
+
