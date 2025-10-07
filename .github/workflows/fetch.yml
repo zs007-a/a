@@ -19,5 +19,5 @@ jobs:
           git config --local user.email "shuizhang654@gmail"
           git config --local user.name "zs"
           git add test.txt
-          git commit -m "add test.txt"
+          git commit -m "add a.test"
           git push origin main
