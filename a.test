@@ -23,4 +23,4 @@
   [96m"hosting"[39m      : [94mtrue[39m,
   [96m"query"[39m        : [92m"172.182.212.3"[39m
 }
-{"status":"success","country":"United States","countryCode":"US","region":"AZ","regionName":"Arizona","city":"Phoenix","zip":"85001","lat":33.448376,"lon":-112.074036,"timezone":"America/Phoenix","isp":"Microsoft","org":"Microsoft Azure Cloud (westus3)","as":"AS8075 Microsoft Corporation","query":"172.182.209.58"}
+{"status":"success","country":"United States","countryCode":"US","region":"AZ","regionName":"Arizona","city":"Phoenix","zip":"85001","lat":33.448376,"lon":-112.074036,"timezone":"America/Phoenix","isp":"Microsoft","org":"Microsoft Azure Cloud (westus3)","as":"AS8075 Microsoft Corporation","query":"172.182.209.58"}{"status":"success","country":"United States","countryCode":"US","region":"VA","regionName":"Virginia","city":"Boydton","zip":"23917","lat":36.677696,"lon":-78.37471,"timezone":"America/New_York","isp":"Microsoft Corporation","org":"Microsoft Azure Cloud (eastus2)","as":"AS8075 Microsoft Corporation","query":"20.161.78.72"}
