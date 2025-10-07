@@ -13,18 +13,18 @@ jobs:
     steps:
       - name: 迁出代码
         uses: actions/checkout@v4
-      - name: curl
-        run: |
-          curl --silent ip-api.com >> a.test
-          pwd
-          ls -al
-      - name: 提交更改
+
+      - name: pull and rebase
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git checkout main
+          git pull -rebase origin main
+      - name: curl
+        run: |
+          curl --silent ip-api.com/json >> a.test
+      - name: 提交更改
+        run: |
           git add *
           git commit -m "add a.test"
-      - name: 推送更改
-        uses: ad-m/github-push-action@master
-        with: 
-         branch: main
+          git push origin main
