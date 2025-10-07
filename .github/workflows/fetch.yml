@@ -21,6 +21,7 @@ jobs:
         run: |
           git config --local user.email "shuizhang654@gmail"
           git config --local user.name "zs"
+          git pull origin main
           git add *
           git commit -m "add a.test"
       - name: 推送更改
