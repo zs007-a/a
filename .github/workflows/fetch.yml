@@ -6,7 +6,7 @@ on:
     path:
      - "a.test"
 permissions:
-    contents: write
+    contents: write-all
 
 jobs:
   fetch:
