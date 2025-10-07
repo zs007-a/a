@@ -19,9 +19,8 @@ jobs:
           pwd
           ls -al
       - name: 提交更改
-        run: |
-          git config --local user.email "shuizhang654@gmail.com"
-          git config --local user.name "zs"
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git add *
           git commit -m "add a.test"
           git push
