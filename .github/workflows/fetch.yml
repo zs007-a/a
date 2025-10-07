@@ -24,7 +24,6 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add *
           git commit -m "add a.test"
-          git push
       - name: 推送更改
         uses: ad-m/github-push-action@master
         with: 
