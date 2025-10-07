@@ -13,4 +13,4 @@ jobs:
       - name: 迁出代码
         uses: actions/checkout@v4
       - name: curl
-        run: curl --slient ip-api.com >> a.test
+        run: curl --silent ip-api.com >> a.test
