@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # 表达式生成 https://crontab.guru/
-   - cron: '* * * * *'
+   - cron: '*/10 * * * *'
   push:
     path:
      - "a.test"
