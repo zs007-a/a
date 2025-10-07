@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 迁出代码
-        use: actions/checkout@v4
+        uses: actions/checkout@v4
       - name: curl
         run: curl ip-api.com
