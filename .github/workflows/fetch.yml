@@ -14,3 +14,10 @@ jobs:
         uses: actions/checkout@v4
       - name: curl
         run: curl --silent ip-api.com >> a.test
+      - name: 提交更改
+        run: |
+          git config --local user.email "shuizhang654@gmail"
+          git config --local user.name "zs"
+          git add test.txt
+          git commit -m "add test.txt"
+          git push origin main
