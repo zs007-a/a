@@ -1,28 +1,3 @@
-[39m{
-  [96m"status"[39m       : [92m"success"[39m,
-  [96m"continent"[39m    : [92m"North America"[39m,
-  [96m"continentCode"[39m: [92m"NA"[39m,
-  [96m"country"[39m      : [92m"United States"[39m,
-  [96m"countryCode"[39m  : [92m"US"[39m,
-  [96m"region"[39m       : [92m"AZ"[39m,
-  [96m"regionName"[39m   : [92m"Arizona"[39m,
-  [96m"city"[39m         : [92m"Phoenix"[39m,
-  [96m"district"[39m     : [92m""[39m,
-  [96m"zip"[39m          : [92m"85001"[39m,
-  [96m"lat"[39m          : [95m33.448376[39m,
-  [96m"lon"[39m          : [95m-112.074036[39m,
-  [96m"timezone"[39m     : [92m"America/Phoenix"[39m,
-  [96m"offset"[39m       : [95m-25200[39m,
-  [96m"currency"[39m     : [92m"USD"[39m,
-  [96m"isp"[39m          : [92m"Microsoft"[39m,
-  [96m"org"[39m          : [92m"Microsoft Azure Cloud (westus3)"[39m,
-  [96m"as"[39m           : [92m"AS8075 Microsoft Corporation"[39m,
-  [96m"asname"[39m       : [92m"MICROSOFT-CORP-MSN-AS-BLOCK"[39m,
-  [96m"mobile"[39m       : [94mfalse[39m,
-  [96m"proxy"[39m        : [94mfalse[39m,
-  [96m"hosting"[39m      : [94mtrue[39m,
-  [96m"query"[39m        : [92m"172.182.212.3"[39m
-}
 {"status":"success","country":"United States","countryCode":"US","region":"AZ","regionName":"Arizona","city":"Phoenix","zip":"85001","lat":33.448376,"lon":-112.074036,"timezone":"America/Phoenix","isp":"Microsoft","org":"Microsoft Azure Cloud (westus3)","as":"AS8075 Microsoft Corporation","query":"172.182.209.58"}{"status":"success","country":"United States","countryCode":"US","region":"VA","regionName":"Virginia","city":"Boydton","zip":"23917","lat":36.677696,"lon":-78.37471,"timezone":"America/New_York","isp":"Microsoft Corporation","org":"Microsoft Azure Cloud (eastus2)","as":"AS8075 Microsoft Corporation","query":"20.161.78.72"}{"status":"success","country":"United States","countryCode":"US","region":"VA","regionName":"Virginia","city":"Boydton","zip":"23917","lat":36.677696,"lon":-78.37471,"timezone":"America/New_York","isp":"Koninklijke KPN N.V","org":"Microsoft Azure Cloud (eastus2)","as":"AS8075 Microsoft Corporation","query":"145.132.102.224"}{"status":"success","country":"United States","countryCode":"US","region":"IL","regionName":"Illinois","city":"Chicago","zip":"60602","lat":41.8819,"lon":-87.6278,"timezone":"America/Chicago","isp":"Microsoft Corporation","org":"Microsoft Azure Cloud (northcentralus)","as":"AS8075 Microsoft Corporation","query":"64.236.201.40"}{"status":"success","country":"United States","countryCode":"US","region":"VA","regionName":"Virginia","city":"Boydton","zip":"23917","lat":36.677696,"lon":-78.37471,"timezone":"America/New_York","isp":"Microsoft Corporation","org":"Microsoft Azure Cloud (eastus2)","as":"AS8075 Microsoft Corporation","query":"135.119.239.136"}\n
 {"status":"success","country":"United States","countryCode":"US","region":"WY","regionName":"Wyoming","city":"Cheyenne","zip":"82001","lat":41.13925,"lon":-104.816154,"timezone":"America/Denver","isp":"Microsoft Corporation","org":"Microsoft Azure Cloud (westcentralus)","as":"AS8075 Microsoft Corporation","query":"57.151.130.5"}\n
 {"status":"success","country":"United States","countryCode":"US","region":"VA","regionName":"Virginia","city":"Boydton","zip":"23917","lat":36.677696,"lon":-78.37471,"timezone":"America/New_York","isp":"Microsoft","org":"Microsoft Azure Cloud (eastus)","as":"AS8075 Microsoft Corporation","query":"172.178.118.86"}\n
