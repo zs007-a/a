@@ -5,8 +5,7 @@ on:
   push:
     path:
      - "a.test"
-permissions:
-    contents: write-all
+permissions: write-all
 
 jobs:
   fetch:
