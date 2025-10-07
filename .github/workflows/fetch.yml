@@ -19,7 +19,7 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git checkout main
-          git pull -rebase origin main
+          git pull --rebase origin main
       - name: curl
         run: |
           curl --silent ip-api.com/json >> a.test
