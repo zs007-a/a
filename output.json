@@ -905,11 +905,11 @@
 			"group": "job",
 			"remarks": "11,12,13|NL_speednode_0047",
 			"protocol": "trojan",
-			"ping": "175",
-			"avg_speed": 14292561,
-			"max_speed": 19240849,
+			"ping": "211",
+			"avg_speed": 12380747,
+			"max_speed": 14777599,
 			"isok": true,
-			"traffic": 215317446,
+			"traffic": 183705526,
 			"link": "trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=1\u0026sni=www.nintendogames.net#11%2C12%2C13%7CNL_speednode_0047"
 		},
 		{
@@ -917,7 +917,7 @@
 			"group": "job",
 			"remarks": "11|🇻🇳 越南|@ripaojiedian",
 			"protocol": "ss",
-			"ping": "503",
+			"ping": "326",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": true,
@@ -943,7 +943,7 @@
 		"generatePicMode": 0,
 		"outputMode": 3
 	},
-	"traffic": 215317446,
+	"traffic": 183705526,
 	"duration": "0m 25s",
 	"successCount": 2,
 	"linksCount": 77
