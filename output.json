@@ -1,28 +1,28 @@
 {
 	"nodes": [
 		{
-			"id": 40,
+			"id": 0,
 			"group": "job",
-			"remarks": "14|IN_speednode_0028",
-			"protocol": "vless",
+			"remarks": "12|tg频道:@ripaojiedian",
+			"protocol": "ss",
 			"ping": "0",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@140.245.14.34:443?allowInsecure=0\u0026sni=musicstatus.apps.apple.com\u0026flow=xtls-rprx-vision-udp443\u0026fp=safari\u0026security=tls#14%7CIN_speednode_0028"
+			"link": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.245.185.129:443#12%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian"
 		},
 		{
-			"id": 67,
+			"id": 1,
 			"group": "job",
-			"remarks": "14|US_speednode_0066",
-			"protocol": "vless",
+			"remarks": "12,13|香港|@ripaojiedian",
+			"protocol": "vmess/ws",
 			"ping": "0",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "vless://b88a2e58-aebb-41c2-b1aa-509e6bbff335@64.188.97.209:443?allowInsecure=0\u0026sni=yahoo.com\u0026fp=chrome\u0026security=tls#14%7CUS_speednode_0066"
+			"link": "vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN86aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInY5LmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODA5IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvb29vbyJ9"
 		},
 		{
 			"id": 2,
@@ -145,6 +145,18 @@
 			"link": "trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1572?allowInsecure=0\u0026sni=www.nintendogames.net#12%2C13%2C14%7CCN_speednode_0017"
 		},
 		{
+			"id": 14,
+			"group": "job",
+			"remarks": "12|🇻🇳 越南|@ripaojiedian",
+			"protocol": "ss",
+			"ping": "0",
+			"avg_speed": 0,
+			"max_speed": 0,
+			"isok": false,
+			"traffic": 0,
+			"link": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.233:38388#12%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian"
+		},
+		{
 			"id": 15,
 			"group": "job",
 			"remarks": "13|tg频道:@ripaojiedian #1",
@@ -167,18 +179,6 @@
 			"isok": false,
 			"traffic": 0,
 			"link": "vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN86aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMDMuMjI0LjgwLjI3IiwgInBvcnQiOiAiMjMyMDMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNjk5MGQ4MDMtY2NjMC00OWZiLWI3M2QtNTVjOTEzYmM3ZTg1IiwgInNuaSI6ICIifQ=="
-		},
-		{
-			"id": 76,
-			"group": "job",
-			"remarks": "香港2|@ripaojiedian",
-			"protocol": "ss",
-			"ping": "0",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": false,
-			"traffic": 0,
-			"link": "ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian"
 		},
 		{
 			"id": 17,
@@ -301,16 +301,16 @@
 			"link": "vless://6e433a29-22ac-4061-ae8b-f1731715d0d9@185.207.197.253:2096?allowInsecure=0\u0026sni=vlesspro.llengcugit.sbs\u0026type=ws\u0026host=vlesspro.llengcugit.sbs\u0026path=/Telegramsecurity=tls#14%7CAU_speednode_0008"
 		},
 		{
-			"id": 42,
+			"id": 27,
 			"group": "job",
-			"remarks": "14|IR_speednode_0030",
+			"remarks": "14|BR_speednode_0009",
 			"protocol": "vless",
 			"ping": "0",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?allowInsecure=0\u0026sni=www.speedtest.net\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls#14%7CIR_speednode_0030"
+			"link": "vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@185.133.35.95:443?allowInsecure=0\u0026sni=d-us4.djwstlsweb.top\u0026type=ws\u0026host=d-us4.djwstlsweb.top\u0026path=/djjc/us4fp=ios\u0026security=tls#14%7CBR_speednode_0009"
 		},
 		{
 			"id": 28,
@@ -457,40 +457,40 @@
 			"link": "vless://01996549-6892-dbf0-0453-f700236936bd@65.20.82.22:443?allowInsecure=0\u0026sni=kejiland.freewarp.eu.org\u0026type=ws\u0026host=kejiland.freewarp.eu.org\u0026path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#14%7CIN_speednode_0027"
 		},
 		{
-			"id": 75,
+			"id": 40,
 			"group": "job",
-			"remarks": "14|US_speednode_0074",
-			"protocol": "trojan/ws",
-			"ping": "0",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": false,
-			"traffic": 0,
-			"link": "trojan://iwangjie@158.101.11.204:15805?allowInsecure=1\u0026sni=nodes.830901.xyz\u0026type=ws\u0026host=nodes.830901.xyz\u0026path=/#14%7CUS_speednode_0074"
-		},
-		{
-			"id": 1,
-			"group": "job",
-			"remarks": "12,13|香港|@ripaojiedian",
-			"protocol": "vmess/ws",
-			"ping": "0",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": false,
-			"traffic": 0,
-			"link": "vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN86aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInY5LmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODA5IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvb29vbyJ9"
-		},
-		{
-			"id": 27,
-			"group": "job",
-			"remarks": "14|BR_speednode_0009",
+			"remarks": "14|IN_speednode_0028",
 			"protocol": "vless",
 			"ping": "0",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@185.133.35.95:443?allowInsecure=0\u0026sni=d-us4.djwstlsweb.top\u0026type=ws\u0026host=d-us4.djwstlsweb.top\u0026path=/djjc/us4fp=ios\u0026security=tls#14%7CBR_speednode_0009"
+			"link": "vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@140.245.14.34:443?allowInsecure=0\u0026sni=musicstatus.apps.apple.com\u0026flow=xtls-rprx-vision-udp443\u0026fp=safari\u0026security=tls#14%7CIN_speednode_0028"
+		},
+		{
+			"id": 41,
+			"group": "job",
+			"remarks": "14|IR_speednode_0029",
+			"protocol": "vless",
+			"ping": "0",
+			"avg_speed": 0,
+			"max_speed": 0,
+			"isok": false,
+			"traffic": 0,
+			"link": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?allowInsecure=0\u0026sni=www.speedtest.net\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls#14%7CIR_speednode_0029"
+		},
+		{
+			"id": 42,
+			"group": "job",
+			"remarks": "14|IR_speednode_0030",
+			"protocol": "vless",
+			"ping": "0",
+			"avg_speed": 0,
+			"max_speed": 0,
+			"isok": false,
+			"traffic": 0,
+			"link": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?allowInsecure=0\u0026sni=www.speedtest.net\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls#14%7CIR_speednode_0030"
 		},
 		{
 			"id": 43,
@@ -781,16 +781,16 @@
 			"link": "vless://12345678-1234-1234-1234-123456789123@209.46.30.44:2096?allowInsecure=0\u0026sni=kejiland.freewarp.eu.org\u0026type=ws\u0026host=kejiland.freewarp.eu.org\u0026path=/snippetssecurity=tls#14%7CUS_speednode_0065"
 		},
 		{
-			"id": 41,
+			"id": 67,
 			"group": "job",
-			"remarks": "14|IR_speednode_0029",
+			"remarks": "14|US_speednode_0066",
 			"protocol": "vless",
 			"ping": "0",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?allowInsecure=0\u0026sni=www.speedtest.net\u0026flow=xtls-rprx-vision-udp443\u0026fp=chrome\u0026security=tls#14%7CIR_speednode_0029"
+			"link": "vless://b88a2e58-aebb-41c2-b1aa-509e6bbff335@64.188.97.209:443?allowInsecure=0\u0026sni=yahoo.com\u0026fp=chrome\u0026security=tls#14%7CUS_speednode_0066"
 		},
 		{
 			"id": 68,
@@ -877,23 +877,35 @@
 			"link": "vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80?allowInsecure=0\u0026sni=Gn8656.io\u0026type=ws\u0026host=Gn8656.io\u0026path=/admin#14%7CUS_speednode_0073"
 		},
 		{
-			"id": 0,
+			"id": 75,
 			"group": "job",
-			"remarks": "12|tg频道:@ripaojiedian",
+			"remarks": "14|US_speednode_0074",
+			"protocol": "trojan/ws",
+			"ping": "0",
+			"avg_speed": 0,
+			"max_speed": 0,
+			"isok": false,
+			"traffic": 0,
+			"link": "trojan://iwangjie@158.101.11.204:15805?allowInsecure=1\u0026sni=nodes.830901.xyz\u0026type=ws\u0026host=nodes.830901.xyz\u0026path=/#14%7CUS_speednode_0074"
+		},
+		{
+			"id": 76,
+			"group": "job",
+			"remarks": "香港2|@ripaojiedian",
 			"protocol": "ss",
 			"ping": "0",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.245.185.129:443#12%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian"
+			"link": "ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian"
 		},
 		{
 			"id": 6,
 			"group": "job",
 			"remarks": "12,13|香港6|@ripaojiedian",
 			"protocol": "trojan",
-			"ping": "198",
+			"ping": "197",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": true,
@@ -905,24 +917,12 @@
 			"group": "job",
 			"remarks": "12,13,14|NL_speednode_0047",
 			"protocol": "trojan",
-			"ping": "216",
+			"ping": "212",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": true,
 			"traffic": 0,
 			"link": "trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=1\u0026sni=www.nintendogames.net#12%2C13%2C14%7CNL_speednode_0047"
-		},
-		{
-			"id": 14,
-			"group": "job",
-			"remarks": "12|🇻🇳 越南|@ripaojiedian",
-			"protocol": "ss",
-			"ping": "328",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": true,
-			"traffic": 0,
-			"link": "ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.233:38388#12%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian"
 		}
 	],
 	"options": {
@@ -945,6 +945,6 @@
 	},
 	"traffic": 0,
 	"duration": "0m 9s",
-	"successCount": 3,
+	"successCount": 2,
 	"linksCount": 77
 }
