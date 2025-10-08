@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
-https://QliEL7.absslk.xyz/55ce3bc0ca27249e470c3d85bba82bc8
+https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml
