@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
+https://raw.githubusercontent.com/bin1site1/V2rayFree/refs/heads/main/config.txt

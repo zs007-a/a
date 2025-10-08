@@ -1,5 +1,4 @@
 
-rm ./tmp
 
 while IFS= read -r line; do
 ./lite --test $line --config ./config.json
