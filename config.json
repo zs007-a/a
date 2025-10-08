@@ -3,7 +3,7 @@
     "speedtestMode":"google",
     "pingMethod":"tcpping",
     "sortMethod":"ping",
-    "concurrency":2,
+    "concurrency":4,
     "testMode":2,
     "timeout":16,
     "language":"en",
