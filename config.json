@@ -3,7 +3,7 @@
     "speedtestMode":"pingonly",
     "pingMethod":"tcpping",
     "sortMethod":"ping",
-    "concurrency":1,
+    "concurrency":8,
     "testMode":2,
     "timeout":16,
     "language":"en",
