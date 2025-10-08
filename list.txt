@@ -1,2 +1,5 @@
-https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
+https://raw.githubusercontent.com/bin1site1/V2rayFree/refs/heads/main/config.txt
+https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml
+https://github.com/kismetpro/NodeSuber/raw/refs/heads/main/Splitted-By-Protocol/ssr.txt
+https://raw.githubusercontent.com/bin1site1/V2rayFree/refs/heads/main/config.txt

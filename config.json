@@ -9,5 +9,6 @@
     "language":"en",
     "fontSize":24,
     "theme":"rainbow",
+    "unique": true,
     "outputMode": 3
-}
+}	
