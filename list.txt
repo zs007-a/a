@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2
+https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
