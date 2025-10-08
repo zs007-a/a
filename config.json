@@ -1,0 +1,13 @@
+{
+    "group":"job",
+    "speedtestMode":"pingonly",
+    "pingMethod":"tcpping",
+    "sortMethod":"ping",
+    "concurrency":1,
+    "testMode":2,
+    "timeout":16,
+    "language":"en",
+    "fontSize":24,
+    "theme":"rainbow",
+    "outputMode": 1
+}

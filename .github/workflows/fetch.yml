@@ -22,10 +22,9 @@ jobs:
           git config --local user.name "GitHub Actions"
           git checkout main
           git pull --rebase origin main
-      - name: curl
+      - name: run shell
         run: |
-          curl --silent ip-api.com/json >> a.test
-          echo "\n" >> a.test
+          sh ./update.sh
       - name: 提交更改
         run: |
           git add *
