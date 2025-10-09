@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
 
-
 https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
