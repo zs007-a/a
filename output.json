@@ -3,14 +3,14 @@
 		{
 			"id": 0,
 			"group": "job",
-			"remarks": "俄罗斯+V2CROSS.COM",
-			"protocol": "trojan/ws",
+			"remarks": "美国+Fastly全球Anycast节点",
+			"protocol": "vless",
 			"ping": "0",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "trojan://wb6368@92.243.75.49:2087?allowInsecure=0\u0026sni=hsdgbuys.pages.dev\u0026type=ws\u0026host=hsdgbuys.pages.dev\u0026path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM"
+			"link": "vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80?allowInsecure=0\u0026sni=Gn8656.io\u0026type=ws\u0026host=Gn8656.io\u0026path=/admin#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9"
 		},
 		{
 			"id": 1,
@@ -22,55 +22,43 @@
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YzVmXHU4MmNmXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjkuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MDkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb29vbyIsICJob3N0IjogImJhaWR1LmNvbSIsICJ0bHMiOiAiIn0="
-		},
-		{
-			"id": 4,
-			"group": "job",
-			"remarks": "甘肃省兰州市 移动",
-			"protocol": "vmess/tcp",
-			"ping": "0",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": false,
-			"traffic": 0,
-			"link": "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3NTE4XHU4MDgzXHU3NzAxXHU1MTcwXHU1ZGRlXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMzYuMTM5LjIwMS4zNSIsICJwb3J0IjogIjEwMDAyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjhkNzE3ZTVhLWRhYjUtNGI5OS1hZjRmLWVhMjllZjhlZWJlZCIsICJzbmkiOiAiIn0="
-		},
-		{
-			"id": 5,
-			"group": "job",
-			"remarks": "美国+V2CROSS.COM",
-			"protocol": "vless",
-			"ping": "0",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": false,
-			"traffic": 0,
-			"link": "vless://12345678-1234-1234-1234-123456789123@170.114.45.44:2096?allowInsecure=0\u0026sni=kejiland.freewarp.eu.org\u0026type=ws\u0026host=kejiland.freewarp.eu.org\u0026path=/snippetsfp=chrome\u0026security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM"
-		},
-		{
-			"id": 2,
-			"group": "job",
-			"remarks": "江苏省盐城市+移动",
-			"protocol": "trojan",
-			"ping": "397",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": true,
-			"traffic": 0,
-			"link": "trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls\u0026sni=www.nintendogames.net#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8"
+			"link": "vmess://eyJ2IjogMiwgInBzIjogIlx1NmM1Zlx1ODJjZlx1NzcwMSBcdTc5ZmJcdTUyYTgiLCAiYWRkIjogInYyNC5oZWR1aWFuLmxpbmsiLCAicG9ydCI6IDMwODI0LCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogInYyNC5oZWR1aWFuLmxpbmsiLCAicGF0aCI6ICIvb29vbyIsICJ0bHMiOiBmYWxzZSwgInNuaSI6ICIifQ=="
 		},
 		{
 			"id": 3,
 			"group": "job",
-			"remarks": "日本+东京樱花网络数据中心",
+			"remarks": "俄罗斯+V2CROSS.COM",
+			"protocol": "trojan/ws",
+			"ping": "0",
+			"avg_speed": 0,
+			"max_speed": 0,
+			"isok": false,
+			"traffic": 0,
+			"link": "trojan://wb6368@92.243.75.49:2087?allowInsecure=0\u0026sni=hsdgbuys.pages.dev\u0026type=ws\u0026host=hsdgbuys.pages.dev\u0026path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM"
+		},
+		{
+			"id": 4,
+			"group": "job",
+			"remarks": "日本+东京SAKURA数据中心",
 			"protocol": "trojan",
-			"ping": "844",
+			"ping": "0",
+			"avg_speed": 0,
+			"max_speed": 0,
+			"isok": false,
+			"traffic": 0,
+			"link": "trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSAKURA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83"
+		},
+		{
+			"id": 2,
+			"group": "job",
+			"remarks": "香港 电讯盈科有限公司",
+			"protocol": "vmess/ws",
+			"ping": "1461",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": true,
 			"traffic": 0,
-			"link": "trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?security=tls\u0026sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E6%A8%B1%E8%8A%B1%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83"
+			"link": "vmess://eyJhZGQiOiAidjEwLmhlZHVpYW4ubGluayIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJwb3J0IjogMzA4MDcsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInBhdGgiOiAiL29vb28iLCAidGxzIjogIiJ9"
 		}
 	],
 	"options": {
@@ -93,6 +81,6 @@
 	},
 	"traffic": 0,
 	"duration": "0m 4s",
-	"successCount": 2,
-	"linksCount": 6
+	"successCount": 1,
+	"linksCount": 5
 }
