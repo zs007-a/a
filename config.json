@@ -1,14 +1,13 @@
 {
     "group":"job",
-    "speedtestMode":"google",
+    "speedtestMode":"pingonly",
     "pingMethod":"tcpping",
     "sortMethod":"ping",
-    "concurrency":4,
-    "testMode":2,
+    "concurrency":24,
+    "testMode":3,
     "timeout":16,
     "language":"en",
     "fontSize":24,
-    "theme":"rainbow",
     "unique": true,
     "outputMode": 3
 }	
