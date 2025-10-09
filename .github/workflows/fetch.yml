@@ -4,9 +4,9 @@ on:
   schedule:
     # 表达式生成 https://crontab.guru/
    - cron: '40 */1 * * *'
-  push:
-    path:
-     - "a.test"
+#  push:
+#    path:
+#     - "a.test"
 permissions: write-all
 
 jobs:
