@@ -3,18 +3,6 @@
 		{
 			"id": 0,
 			"group": "job",
-			"remarks": "美国+Fastly全球Anycast节点",
-			"protocol": "vless",
-			"ping": "0",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": false,
-			"traffic": 0,
-			"link": "vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80?allowInsecure=0\u0026sni=Gn8656.io\u0026type=ws\u0026host=Gn8656.io\u0026path=/admin#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9"
-		},
-		{
-			"id": 1,
-			"group": "job",
 			"remarks": "江苏省 移动",
 			"protocol": "vmess/ws",
 			"ping": "0",
@@ -22,43 +10,55 @@
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "vmess://eyJ2IjogMiwgInBzIjogIlx1NmM1Zlx1ODJjZlx1NzcwMSBcdTc5ZmJcdTUyYTgiLCAiYWRkIjogInYyNC5oZWR1aWFuLmxpbmsiLCAicG9ydCI6IDMwODI0LCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogInYyNC5oZWR1aWFuLmxpbmsiLCAicGF0aCI6ICIvb29vbyIsICJ0bHMiOiBmYWxzZSwgInNuaSI6ICIifQ=="
+			"link": "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YzVmXHU4MmNmXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjYuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MDYiLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAic25pIjogIiIsICJob3N0IjogIm9jYmMuY29tIiwgInBhdGgiOiAiL29vb28ifQ=="
 		},
 		{
-			"id": 3,
+			"id": 1,
 			"group": "job",
-			"remarks": "俄罗斯+V2CROSS.COM",
-			"protocol": "trojan/ws",
-			"ping": "0",
-			"avg_speed": 0,
-			"max_speed": 0,
-			"isok": false,
-			"traffic": 0,
-			"link": "trojan://wb6368@92.243.75.49:2087?allowInsecure=0\u0026sni=hsdgbuys.pages.dev\u0026type=ws\u0026host=hsdgbuys.pages.dev\u0026path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM"
-		},
-		{
-			"id": 4,
-			"group": "job",
-			"remarks": "日本+东京SAKURA数据中心",
+			"remarks": "江苏省盐城市+移动",
 			"protocol": "trojan",
 			"ping": "0",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": false,
 			"traffic": 0,
-			"link": "trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSAKURA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83"
+			"link": "trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?allowInsecure=0\u0026sni=www.nintendogames.net#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8"
+		},
+		{
+			"id": 4,
+			"group": "job",
+			"remarks": "美国+V2CROSS.COM",
+			"protocol": "vless",
+			"ping": "0",
+			"avg_speed": 0,
+			"max_speed": 0,
+			"isok": false,
+			"traffic": 0,
+			"link": "vless://12345678-1234-1234-1234-123456789123@170.114.45.44:2096?allowInsecure=0\u0026sni=kejiland.freewarp.eu.org\u0026type=ws\u0026host=kejiland.freewarp.eu.org\u0026path=/snippetsfp=chrome\u0026security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM"
 		},
 		{
 			"id": 2,
 			"group": "job",
-			"remarks": "香港 电讯盈科有限公司",
+			"remarks": "美国 CloudFlare节点",
 			"protocol": "vmess/ws",
-			"ping": "1461",
+			"ping": "73",
 			"avg_speed": 0,
 			"max_speed": 0,
 			"isok": true,
 			"traffic": 0,
-			"link": "vmess://eyJhZGQiOiAidjEwLmhlZHVpYW4ubGluayIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJwb3J0IjogMzA4MDcsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInBhdGgiOiAiL29vb28iLCAidGxzIjogIiJ9"
+			"link": "vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjczRTQyMDE5LWM4MjAtQTY2YS0wMTFFLWYxMTkzNzIzMmVjMS44OTg5MDYwNC5YWXoiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImMyNjMzNTYwLTVhY2ItNGRkMy05YzIyLTlhNmMyZmQyMTJlMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvMnVSc000WjRZOE81T3NiSmtBIiwgImhvc3QiOiAiNzNlNDIwMTktQzgyMC1BNjZBLTAxMUUtZjExOTM3MjMyRUMxLjg5ODkwNjA0LnhZWiIsICJ0bHMiOiAidGxzIn0="
+		},
+		{
+			"id": 3,
+			"group": "job",
+			"remarks": "北美地区+V2CROSS.COM",
+			"protocol": "trojan",
+			"ping": "98",
+			"avg_speed": 0,
+			"max_speed": 0,
+			"isok": true,
+			"traffic": 0,
+			"link": "trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?allowInsecure=0\u0026sni=www.nintendogames.net#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM"
 		}
 	],
 	"options": {
@@ -81,6 +81,6 @@
 	},
 	"traffic": 0,
 	"duration": "0m 4s",
-	"successCount": 1,
+	"successCount": 2,
 	"linksCount": 5
 }
