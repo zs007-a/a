@@ -20,12 +20,15 @@ trojan://1b57001bd214304027025a740b6cf1ac@203.198.122.194:443?allowInsecure=0&sn
 trojan://1b57001bd214304027025a740b6cf1ac@203.198.122.194:443?sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@203.198.122.129:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@203.198.122.129:443?allowInsecure=1&sni=t.me%2Fripaojiedian#12%2C13%7C%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://BxceQaOe@36.150.215.244:2753?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
 trojan://BxceQaOe@36.150.215.244:2753?allowInsecure=1&sni=t.me%2Fripaojiedian#12%2C13%7C%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.248:4492?allowInsecure=1&sni=t.me%2Fripaojiedian#12%2C13%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@36.151.251.38:25891?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
 trojan://BxceQaOe@36.151.251.38:25891?allowInsecure=1&sni=t.me%2Fripaojiedian#12%2C13%7C%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@58.152.30.26:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@58.152.30.26:443?allowInsecure=1&sni=t.me%2Fripaojiedian#12%2C13%7C%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://BxceQaOe@58.152.53.186:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@58.152.53.186:443?allowInsecure=1&sni=t.me%2Fripaojiedian#12%2C13%7C%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?allowInsecure=0&sni=www.nintendogames.net#12%2C13%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMSIsICJhZGQiOiAidjEwLmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODA3IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL29vb28iLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAidXMxLm5vZGVhNmE2LnNreW5vZGUubWUiLCAidiI6ICIyIiwgInBzIjogIlx1NTJhMFx1NjJmZlx1NTkyNyBWMkNST1NTLkNPTSIsICJwb3J0IjogODAsICJpZCI6ICJjM2Y5NWI3ZS0wZmM3LTMzMTEtOWEzZC1lMzRlNjc1NjMyZDQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibm9kZS01OS0xNzUtMjA2LTg2LnNwZWVkdGVzdC5jbiIsICJwYXRoIjogIi9kb3dubG9hZD9lZD0yNTYwIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAidjEwLmhlZHVpYW4ubGluayIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMSIsICJwb3J0IjogMzA4MDcsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInBhdGgiOiAiL29vb28iLCAidGxzIjogIiJ9
