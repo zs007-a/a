@@ -251,7 +251,9 @@ trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?allowInsecure=0&sni
 trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?allowInsecure=0&sni=www.nintendogames.net#12%2C13%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://3b6a3c17-67d6-4019-a4d8-138f759a1cc6@cdnfire.xiaomispeed.com:21102?allowInsecure=1&sni=cdnfire.xiaomispeed.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG
 trojan://501c6f5f-73eb-4a18-9f24-72b67fa65387@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BC%20%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20TWN
+trojan://6430b740-9a37-4b46-908b-92631afe05c2@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
 trojan://6684ea42-8983-447a-bc76-2b894540cb11@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG
+trojan://6684ea42-8983-447a-bc76-2b894540cb11@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
 trojan://7c503ace-4121-43d9-91f7-8dd487fab54b@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
 trojan://7e227a04-fa7d-4a6f-93e9-954f33ba32e7@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
 trojan://80a6da9c-fcd5-4b11-8824-07020f121db5@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
@@ -273,6 +275,7 @@ trojan://a0c5cb9c-2753-4e79-94b3-e23fc159d370@green2.cdntencentmusic.com:35502?a
 trojan://a4b1fc58-6a31-40ac-a7fe-482a44962868@cdnfire.xiaomispeed.com:21102?allowInsecure=1&sni=cdnfire.xiaomispeed.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG
 trojan://a7fe570b-b4e6-427d-b220-a05456106a43@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
 trojan://a7fe570b-b4e6-427d-b220-a05456106a43@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
+trojan://ba91a84a-6b81-4aef-be19-a76f64a790d1@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
 trojan://cc3585ff-8a1e-42a1-9926-10f07f9319af@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN86aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJoa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJkOGMzOGNjLWZjMTItMTFlZi05NGFhLWYyM2M5MTNjOGQyYiIsICJzbmkiOiAiIiwgImhvc3QiOiAiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBhdGgiOiAiLyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICIyMTYuMjM4Ljg3LjQ3IiwgInBvcnQiOiAiMjc1MDIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAibm9uZSIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
